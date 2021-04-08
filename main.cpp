@@ -54,6 +54,6 @@ int main()
 
 	cout << "FREAKY, EU SINTO ME FREAKYYYYYYYYYYYYYYYYYYYYYYYYYYY" << endl;
 
-	PlaySound(TEXT("pinkfloid.wav"), NULL, SND_FILENAME);
+	//PlaySound(TEXT("pinkfloid.wav"), NULL, SND_FILENAME);
 
 }
